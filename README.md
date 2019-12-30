@@ -36,13 +36,22 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
 ### Finally if you have resources in one availability zones and they share one NAT gateway, in the event that the nat gateway availability zone is down, resources in the other availability zones lose internet access. To create an availability zone-independent architecture, create a NAT gateway in each availability zone and configure routing to ensure that resources use the NAT gateway in the same availability zone.
 
+[Read more about AWS-Gateway here](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 
 
-
-
-## Create a Nat-Gateway on AWS 
+### Create a Nat-Gateway on AWS 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/24816990/71599161-fa4a4600-2b49-11ea-9eab-3f142338605e.gif)
+
+
+## Contributing 
+ Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
+ 
+ ### How can I thank you?
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!
+
+Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
+
 
 
 
