@@ -14,3 +14,6 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
  #### NAT gateway is used to give your private network internet connectivity but still ensuring that your resources are not accessible from the internet. So in order to allow access to internet it has to route traffic through public network which has a Internet gateway attached.
 
+ ### Why you should use Internet Gateway?
+ 1.An Internet Gateway allows resources within your VPC to access the internet (think yum updates, external database connections, wget calls, OS patch, etc). 
+
