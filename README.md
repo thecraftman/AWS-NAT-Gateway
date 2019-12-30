@@ -19,5 +19,6 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
  ### Why you should use Internet Gateway?
  1. An Internet Gateway allows resources within your VPC to access the internet (think yum updates, external database connections, wget calls, OS patch, etc)
- 2. It only works one way. The internet at large cannot get through your NAT to your private resources unless you explicitly allow it.
+ 2. It only works one way. The internet at large cannot get through your NAT to your private resources unless you explicitly allow it
+ 3. It is a fully-managed service — just create it and it works automatically, including fail-over
 
