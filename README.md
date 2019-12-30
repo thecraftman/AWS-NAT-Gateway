@@ -45,7 +45,7 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
 
 ## Contributing 
- Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities. 
+ Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities
  
  ### How can I thank you?
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!  or feel like sendind me an e-mail temitopetola@gmail.com
