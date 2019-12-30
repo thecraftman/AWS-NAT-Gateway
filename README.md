@@ -40,7 +40,7 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
 
 
-` Create a Nat-Gateway on AWS` 
+### Create a Nat-Gateway on AWS
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/24816990/71599161-fa4a4600-2b49-11ea-9eab-3f142338605e.gif)
 
