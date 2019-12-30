@@ -12,5 +12,5 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 
  `You can use a network address translation (NAT) gateway to enable instances in a private subnet to connect to the internet or other AWS services, but prevent the internet from initiating a connection with those instances`
 
- #### NAT gateway is used to give your private network internet connectivity but still ensuring that your resources are not accessible from the internet. So in order to allow access to internet it has to route traffic through public network which has a Internet gateway attached
+ #### NAT gateway is used to give your private network internet connectivity but still ensuring that your resources are not accessible from the internet. So in order to allow access to internet it has to route traffic through public network which has a Internet gateway attached.
 
