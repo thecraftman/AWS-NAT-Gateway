@@ -27,5 +27,14 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 - You can only have one nat gateways inside one az 
 - Preferred by the enterprise 
 - Starts with a throughput of 5gps and scales currently to 45 Gbps
+- No need to patch the os for your nat gateway 
+- Not associated with security grouups 
+- Automatically assigned a public ip address
+- Remember to update your route tables 
+- No need to disable source/destination checks
+- You’ll need one in each AZ since they only operate in a single AZ
+
+
+
 
 
