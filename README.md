@@ -4,7 +4,7 @@
   ### NAT stands for `Network Address Translation`
   ####  NAT is designed for IP address conservation. It enables private IP networks that use unregistered IP addresses to connect to the Internet.
 
-``Lets take one familiar example. In any residential society/commercial place, there will be entrance gate and watchman. A new person entering inside premise will not know anything about inside members like where to go etc. This watchmen also keep watch on all object coming inside and allow only authorized person.
+Lets take one familiar example. In any residential society/commercial place, there will be entrance gate and watchman. A new person entering inside premise will not know anything about inside members like where to go etc. This watchmen also keep watch on all object coming inside and allow only authorized person.
 
 Similar to entrance of your premise, NAT is entrance of your VPC and it should be public facing to monitor all incoming object. So, it allow only authorized access to internal private EC2 or others systems.
 
