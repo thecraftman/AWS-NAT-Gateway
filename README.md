@@ -11,7 +11,7 @@ Lets take one familiar example. In any residential society/commercial place, the
 
 Similar to entrance of your premise, NAT is entrance of your VPC and it should be public facing to monitor all incoming object. So, it allow only authorized access to internal private EC2 or others systems.
 
-### Nat gateway is a higly available gateway that allows you to have your privte subnet communicate to the internet without becoming public.``
+### Nat gateway is a higly available gateway that allows you to have your privte subnet communicate to the internet without becoming public.
 
  `You can use a network address translation (NAT) gateway to enable instances in a private subnet to connect to the internet or other AWS services, but prevent the internet from initiating a connection with those instances`
 
