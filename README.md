@@ -4,7 +4,9 @@
 
 
 ## What is NAT-Gateway
+
   ### NAT stands for `Network Address Translation`
+  
   ####  NAT is designed for IP address conservation. It enables private IP networks that use unregistered IP addresses to connect to the Internet.
 
 Lets take one familiar example. In any residential society/commercial place, there will be entrance gate and watchman. A new person entering inside premise will not know anything about inside members like where to go etc. This watchmen also keep watch on all object coming inside and allow only authorized person.
