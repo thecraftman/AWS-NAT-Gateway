@@ -46,7 +46,7 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/24816990/71599161-fa4a4600-2b49-11ea-9eab-3f142338605e.gif)
 
 
-## Contributin
+## Contributing
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
  
  ### How can I thank you?
