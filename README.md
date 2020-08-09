@@ -25,7 +25,7 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
  3. It is a fully-managed service — just create it and it works automatically, including fail-over.
 
 #### Important points to note while using NAT-Gateway
-- Redundant inside the availability zones
+- Redundant inside the availability zon
 - You can only have one nat gateways inside one az 
 - Preferred by the enterprise 
 - Starts with a throughput of 5gps and scales currently to 45 Gbps
