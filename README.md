@@ -4,7 +4,6 @@
 
 
 ## What is NAT-Gateway
-it is 
 
 ### NAT stands for `Network Address Translation`
   
