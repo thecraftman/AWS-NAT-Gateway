@@ -3,7 +3,7 @@
 ![internet gateway](https://user-images.githubusercontent.com/24816990/71585599-76776600-2b17-11ea-970d-23401c6c32f5.png)
 
 
-## What is NAT-Gateway
+## What is NAT-Gatew
 
 ### NAT stands for `Network Address Translation`
   
