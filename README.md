@@ -53,3 +53,5 @@ Similar to entrance of your premise, NAT is entrance of your VPC and it should b
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!  or feel like sending me an e-mail temitopetola@gmail.com
 
 Don't forget to [follow me on twitter](https://twitter.com/thecraftman_)
+
+
